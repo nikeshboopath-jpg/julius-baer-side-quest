@@ -1,0 +1,9 @@
+[transfer]
+# HTTP endpoint for the transfer service
+endpoint = http://localhost:8123/
+
+# Set to false to actually perform network calls
+dry_run = true
+
+# Network timeout in seconds
+timeout = 5.0

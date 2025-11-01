@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Environment files
+.env
+env.local
+
+# Local config (may contain secrets)
+config.ini
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# mypy
+.mypy_cache/
